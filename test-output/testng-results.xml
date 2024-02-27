@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T12:47:52 IST" name="Suite" finished-at="2024-02-27T12:49:22 IST" duration-ms="90270">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T12:47:52 IST" name="Test" finished-at="2024-02-27T12:49:22 IST" duration-ms="90270">
+      <class name="com.flipkart.testCases.TC_POF_Test_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.flipkart.testCases.TC_POF_Test_001@43df23d3]" started-at="2024-02-27T12:47:54 IST" name="setup" finished-at="2024-02-27T12:48:10 IST" duration-ms="16310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrderFlowTest()[pri:0, instance:com.flipkart.testCases.TC_POF_Test_001@43df23d3]" started-at="2024-02-27T12:48:10 IST" name="placeOrderFlowTest" finished-at="2024-02-27T12:49:21 IST" duration-ms="70252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderFlowTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.testCases.TC_POF_Test_001@43df23d3]" started-at="2024-02-27T12:49:21 IST" name="tearDown" finished-at="2024-02-27T12:49:22 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.testCases.TC_POF_Test_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
